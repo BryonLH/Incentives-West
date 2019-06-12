@@ -1,0 +1,7 @@
+.navbar-custom {
+    background-color:#61a04e;
+}
+
+.nav-item:hover {
+    color:red;
+}
